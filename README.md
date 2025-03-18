@@ -6,7 +6,7 @@ I am a dedicated and results-driven a strong background in full-stack web develo
 My passion lies in developing **innovative and user-centric applications** that address real-world challenges, leveraging the latest technologies to enhance user experience and streamline operations.
 
 ## 🔥 Current Projects & Initiatives
-### **🌟 eatzzePro (SaaS for Restaurants)**
+### **🌟 eatZzepro (SaaS for Restaurants)**
 - A subscription-based **SaaS platform** designed to enhance restaurant operations.
 - Enables **QR code-based digital menu ordering**, real-time order management, and automated bill printing.
 - Built using **Django, WebSockets, and AWS EC2** for scalability.
